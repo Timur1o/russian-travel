@@ -1,0 +1,15 @@
+.place__website {
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+@media (max-width: 767px) {
+  .place__website {
+    grid-template-columns: 1fr;
+    margin: 0;
+    margin-left: 16px;
+    /* width: 288px;  */
+  }
+}

@@ -13,7 +13,7 @@ Grid вёрстка
 Ссылка на сайт:
 https://github.com/Timur1o/russian-travel
 
-Explore the Russia. The project for Yandex.Praktikum
+Russian Travel. The project for Yandex.Praktikum
 
 Stack
 HTML
