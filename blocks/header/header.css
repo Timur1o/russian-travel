@@ -1,8 +1,9 @@
 .header {
+  max-height: 1184px;
   display: flex;
   padding: 26px 48px 0 48px;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: flex-end;
 }
 
 @media (max-width: 1024px) {
@@ -17,10 +18,9 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 600px) {
   .header {
     padding: 16px 16px 0 16px;
-    align-items: center;
   }
 }
 
