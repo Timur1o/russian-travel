@@ -8,29 +8,3 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-
-@media (max-width: 768px) {
-  .cover__background {
-    /* width: 320px; */
-    /* height: 200px; */
-  }
-}
-
-@media (min-width: 768px) and (max-width: 1023px) {
-  .cover__background {
-    /* width: 768px; */
-    /* height: 480px; */
-  }
-}
-
-@media (min-width: 1024px) and (max-width: 1279px) {
-  .cover__background {
-    /* width: 1024px; */
-    /* height: 640px; */
-  }
-}
-
-@media (min-width: 1280px) {
-  .cover__background {
-  }
-}
