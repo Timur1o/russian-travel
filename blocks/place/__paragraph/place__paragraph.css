@@ -11,13 +11,13 @@
   margin-bottom: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .place__paragraph {
     max-width: 484px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
     line-height: 26px;
@@ -26,7 +26,7 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .place__paragraph {
     max-width: 352px;
     font-size: 16px;

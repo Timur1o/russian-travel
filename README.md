@@ -11,7 +11,7 @@ Grid вёрстка
 Файловая структура проекта по правилам Nested БЭМ
 
 Ссылка на сайт:
-https://github.com/Timur1o/russian-travel
+https://timur1o.github.io/russian-travel/
 
 Russian Travel. The project for Yandex.Praktikum
 
@@ -27,4 +27,4 @@ The Nested BEM file stucture
 Future improvements
 To optimize website for different screen sizes
 URL:
-https://github.com/Timur1o/russian-travel
+https://timur1o.github.io/russian-travel/

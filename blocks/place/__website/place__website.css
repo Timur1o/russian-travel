@@ -5,7 +5,7 @@
   justify-content: end;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .place__website {
     grid-template-columns: 1fr;
     margin: 0;
